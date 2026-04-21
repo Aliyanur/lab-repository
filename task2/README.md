@@ -1,0 +1,21 @@
+## LAB 14 - TASK 2
+
+## Student
+Name: Kaldybay Aliyanur
+Date: 21.04.2026
+
+## Overview
+Built a registration form with validation and proper keyboard handling.
+
+## Features
+KeyboardAvoidingView for keyboard handling
+TouchableWithoutFeedback to dismiss keyboard
+Email validation using regex
+Controlled form state with useState
+Disabled button when input is invalid
+Secure password input
+
+## Run
+
+npm install
+npm start
